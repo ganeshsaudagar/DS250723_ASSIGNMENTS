@@ -1,0 +1,43 @@
+[
+ {
+    "name":"Ganesh saudagar",
+    "DOB":"22-01-1998",
+    "Height":167  ,
+    "City":"Sambhaji Nagar",
+    "State":"Maharashtra"
+    
+ },
+ {
+    "name":"Manoj Gadekar",
+    "DOB":"15-07-1998",
+    "Height":168.15 ,
+    "City":"Pune",
+    "State":"Maharashtra"
+
+ },
+ {
+    "name":"Santosh Darunte",
+    "DOB":"10-10-2000",
+    "Height":166 ,
+    "City":"Bangalore",
+    "State":"Karnataka"
+
+ },
+ {
+    "name":"Chandan Dadake",
+    "DOB":"01-05-1997",
+    "Height":165 ,
+    "City":"Surat",
+    "State":"Gujarat"
+
+ },
+ {
+    "name":"Taleb Sheikh",
+    "DOB":"25-12-2001",
+    "Height":173 ,
+    "City":"Jalgaon",
+    "State":"Maharashtra"
+
+ }
+ 
+]
